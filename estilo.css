@@ -11,16 +11,6 @@ body{
    flex-direction: column;
    height: 100vh;
 }
-li{
-    font-size: small;
-    display: inline-block;
-    text-align: initial;
-    color: white;
-    letter-spacing: 10px;
-}
-li:hover{
-    background-color: rgb(153, 151, 151) ;
-}
 h1{
     font-size: xx-large;
     margin-bottom: 15px;
